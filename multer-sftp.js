@@ -1,7 +1,5 @@
 var multer = require('multer')
 var sftpStorage = require('multer-sftp')
-
-
 /*
 Hostname: sweetftp.swisher.com
 Port: 921
